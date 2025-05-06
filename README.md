@@ -15,7 +15,7 @@ numpy>=1.23.0
 Instale as dependências com:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ## Como Usar
