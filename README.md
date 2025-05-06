@@ -1,4 +1,4 @@
-# Sistema de Detecção e Análise de Faces em Vídeos
+# Pipeline para detecção e análise de faces em vídeos
 
 Este sistema utiliza YOLO para detecção de pessoas e DeepFace para análise facial, permitindo processar vídeos ou conjuntos de dados inteiros para extrair informações sobre pessoas presentes nos vídeos.
 
