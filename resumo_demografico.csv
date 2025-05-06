@@ -1,0 +1,310 @@
+arquivo,crime_category,total_pessoas,total_faces,raça_dominante,gênero_dominante,faixa_etária_dominante,entropia_racial,distribuição_racial,distribuição_gênero,distribuição_idade
+resultados\Assault\Assault001_x264\analysis\Assault001_x264_analysis.json,Assault,11,5,asian,Man,18-29,0.5004024235381879,"{'asian': 4, 'white': 1}","{'Man': 3, 'Woman': 2}",{'18-29': 5}
+resultados\Assault\Assault002_x264\analysis\Assault002_x264_analysis.json,Assault,13,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Assault\Assault003_x264\analysis\Assault003_x264_analysis.json,Assault,4,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Assault\Assault004_x264\analysis\Assault004_x264_analysis.json,Assault,4,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Assault\Assault006_x264\analysis\Assault006_x264_analysis.json,Assault,20,14,white,Man,18-29,0.25731864054383163,"{'white': 13, 'asian': 1}",{'Man': 14},"{'30-44': 7, '18-29': 7}"
+resultados\Assault\Assault007_x264\analysis\Assault007_x264_analysis.json,Assault,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Assault\Assault008_x264\analysis\Assault008_x264_analysis.json,Assault,40,4,white,Man,18-29,0.5623351446188083,"{'white': 3, 'asian': 1}","{'Man': 3, 'Woman': 1}",{'18-29': 4}
+resultados\Assault\Assault009_x264\analysis\Assault009_x264_analysis.json,Assault,7,4,asian,Man,30-44,0.6931471805599453,"{'white': 2, 'asian': 2}","{'Man': 3, 'Woman': 1}",{'30-44': 4}
+resultados\Assault\Assault010_x264\analysis\Assault010_x264_analysis.json,Assault,22,10,white,Man,18-29,0.3250829733914482,"{'white': 9, 'asian': 1}",{'Man': 10},"{'18-29': 6, '30-44': 4}"
+resultados\Assault\Assault011_x264\analysis\Assault011_x264_analysis.json,Assault,25,16,asian,Man,18-29,1.0609581504393426,"{'asian': 8, 'white': 6, 'middle eastern': 1, 'latino hispanic': 1}","{'Man': 12, 'Woman': 4}","{'18-29': 14, '30-44': 2}"
+resultados\Assault\Assault013_x264\analysis\Assault013_x264_analysis.json,Assault,10,4,asian,Woman,18-29,0.6931471805599453,"{'asian': 2, 'white': 2}","{'Woman': 3, 'Man': 1}",{'18-29': 4}
+resultados\Assault\Assault015_x264\analysis\Assault015_x264_analysis.json,Assault,5,2,black,Man,30-44,0.6931471805599453,"{'black': 1, 'white': 1}",{'Man': 2},{'30-44': 2}
+resultados\Assault\Assault016_x264\analysis\Assault016_x264_analysis.json,Assault,7,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Assault\Assault019_x264\analysis\Assault019_x264_analysis.json,Assault,4,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Assault\Assault020_x264\analysis\Assault020_x264_analysis.json,Assault,5,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},{'18-29': 2}
+resultados\Assault\Assault022_x264\analysis\Assault022_x264_analysis.json,Assault,14,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Assault\Assault025_x264\analysis\Assault025_x264_analysis.json,Assault,14,7,white,Man,18-29,0.6829081047004717,"{'white': 4, 'asian': 3}","{'Man': 6, 'Woman': 1}","{'18-29': 6, '30-44': 1}"
+resultados\Assault\Assault026_x264\analysis\Assault026_x264_analysis.json,Assault,3,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Assault\Assault027_x264\analysis\Assault027_x264_analysis.json,Assault,12,10,white,Man,18-29,0.3250829733914482,"{'white': 9, 'asian': 1}",{'Man': 10},"{'18-29': 6, '30-44': 4}"
+resultados\Assault\Assault034_x264\analysis\Assault034_x264_analysis.json,Assault,8,4,white,Man,18-29,0.0,{'white': 4},{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Assault\Assault035_x264\analysis\Assault035_x264_analysis.json,Assault,6,1,asian,Woman,18-29,0.0,{'asian': 1},{'Woman': 1},{'18-29': 1}
+resultados\Assault\Assault036_x264\analysis\Assault036_x264_analysis.json,Assault,3,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Assault\Assault037_x264\analysis\Assault037_x264_analysis.json,Assault,10,7,white,Man,18-29,0.5982695885852573,"{'white': 5, 'asian': 2}","{'Man': 6, 'Woman': 1}","{'18-29': 4, '30-44': 3}"
+resultados\Assault\Assault038_x264\analysis\Assault038_x264_analysis.json,Assault,2,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Assault\Assault041_x264\analysis\Assault041_x264_analysis.json,Assault,12,9,white,Man,18-29,0.5297061990576545,"{'white': 7, 'black': 2}",{'Man': 9},"{'18-29': 6, '30-44': 3}"
+resultados\Assault\Assault042_x264\analysis\Assault042_x264_analysis.json,Assault,10,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Assault\Assault046_x264\analysis\Assault046_x264_analysis.json,Assault,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Assault\Assault048_x264\analysis\Assault048_x264_analysis.json,Assault,15,12,asian,Man,18-29,1.286057336874379,"{'asian': 4, 'white': 4, 'black': 3, 'middle eastern': 1}","{'Man': 11, 'Woman': 1}","{'18-29': 11, '30-44': 1}"
+resultados\Assault\Assault049_x264\analysis\Assault049_x264_analysis.json,Assault,8,6,white,Man,18-29,1.242453324894,"{'white': 3, 'middle eastern': 1, 'black': 1, 'asian': 1}",{'Man': 6},"{'30-44': 3, '18-29': 3}"
+resultados\Assault\Assault052_x264\analysis\Assault052_x264_analysis.json,Assault,4,1,black,Man,18-29,0.0,{'black': 1},{'Man': 1},{'18-29': 1}
+resultados\Fighting\Fighting003_x264\analysis\Fighting003_x264_analysis.json,Fighting,21,8,asian,Man,18-29,0.9743147528693494,"{'asian': 4, 'white': 3, 'black': 1}","{'Man': 7, 'Woman': 1}","{'18-29': 7, '30-44': 1}"
+resultados\Fighting\Fighting004_x264\analysis\Fighting004_x264_analysis.json,Fighting,32,7,white,Man,18-29,0.5982695885852573,"{'white': 5, 'asian': 2}","{'Man': 6, 'Woman': 1}","{'18-29': 6, '30-44': 1}"
+resultados\Fighting\Fighting006_x264\analysis\Fighting006_x264_analysis.json,Fighting,6,3,white,Woman,18-29,0.0,{'white': 3},{'Woman': 3},{'18-29': 3}
+resultados\Fighting\Fighting007_x264\analysis\Fighting007_x264_analysis.json,Fighting,49,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Fighting\Fighting008_x264\analysis\Fighting008_x264_analysis.json,Fighting,36,6,asian,Man,18-29,0.6365141682948128,"{'asian': 4, 'white': 2}",{'Man': 6},{'18-29': 6}
+resultados\Fighting\Fighting010_x264\analysis\Fighting010_x264_analysis.json,Fighting,19,10,asian,Man,18-29,0.8979457248567797,"{'asian': 6, 'white': 3, 'black': 1}","{'Man': 9, 'Woman': 1}","{'18-29': 8, '30-44': 2}"
+resultados\Fighting\Fighting011_x264\analysis\Fighting011_x264_analysis.json,Fighting,22,12,white,Man,18-29,0.9184277849930976,"{'white': 6, 'asian': 5, 'black': 1}","{'Man': 11, 'Woman': 1}","{'18-29': 11, '30-44': 1}"
+resultados\Fighting\Fighting012_x264\analysis\Fighting012_x264_analysis.json,Fighting,5,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Fighting\Fighting013_x264\analysis\Fighting013_x264_analysis.json,Fighting,2,2,white,Man,18-29,0.0,{'white': 2},"{'Woman': 1, 'Man': 1}","{'18-29': 1, '30-44': 1}"
+resultados\Fighting\Fighting014_x264\analysis\Fighting014_x264_analysis.json,Fighting,29,21,white,Man,18-29,0.410116318288409,"{'white': 18, 'asian': 3}","{'Man': 15, 'Woman': 6}","{'18-29': 20, '30-44': 1}"
+resultados\Fighting\Fighting015_x264\analysis\Fighting015_x264_analysis.json,Fighting,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Fighting\Fighting016_x264\analysis\Fighting016_x264_analysis.json,Fighting,7,3,asian,Woman,18-29,1.0986122886681096,"{'black': 1, 'white': 1, 'asian': 1}","{'Woman': 2, 'Man': 1}",{'18-29': 3}
+resultados\Fighting\Fighting020_x264\analysis\Fighting020_x264_analysis.json,Fighting,23,14,white,Man,18-29,1.2700181519104905,"{'white': 7, 'asian': 4, 'indian': 1, 'latino hispanic': 1, 'black': 1}","{'Man': 12, 'Woman': 2}","{'18-29': 8, '30-44': 6}"
+resultados\Fighting\Fighting021_x264\analysis\Fighting021_x264_analysis.json,Fighting,6,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Fighting\Fighting023_x264\analysis\Fighting023_x264_analysis.json,Fighting,2,1,black,Man,30-44,0.0,{'black': 1},{'Man': 1},{'30-44': 1}
+resultados\Fighting\Fighting024_x264\analysis\Fighting024_x264_analysis.json,Fighting,9,8,white,Man,18-29,1.2130075659799042,"{'white': 4, 'asian': 2, 'black': 1, 'middle eastern': 1}",{'Man': 8},"{'18-29': 6, '30-44': 2}"
+resultados\Fighting\Fighting025_x264\analysis\Fighting025_x264_analysis.json,Fighting,20,3,white,Woman,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}","{'Woman': 2, 'Man': 1}",{'18-29': 3}
+resultados\Fighting\Fighting027_x264\analysis\Fighting027_x264_analysis.json,Fighting,10,2,asian,Woman,18-29,0.0,{'asian': 2},{'Woman': 2},{'18-29': 2}
+resultados\Fighting\Fighting028_x264\analysis\Fighting028_x264_analysis.json,Fighting,9,3,white,Man,30-44,0.0,{'white': 3},{'Man': 3},{'30-44': 3}
+resultados\Fighting\Fighting029_x264\analysis\Fighting029_x264_analysis.json,Fighting,5,4,white,Man,18-29,0.0,{'white': 4},{'Man': 4},{'18-29': 4}
+resultados\Fighting\Fighting031_x264\analysis\Fighting031_x264_analysis.json,Fighting,26,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Fighting\Fighting032_x264\analysis\Fighting032_x264_analysis.json,Fighting,6,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Fighting\Fighting033_x264\analysis\Fighting033_x264_analysis.json,Fighting,7,1,latino hispanic,Man,18-29,0.0,{'latino hispanic': 1},{'Man': 1},{'18-29': 1}
+resultados\Fighting\Fighting037_x264\analysis\Fighting037_x264_analysis.json,Fighting,27,9,white,Man,18-29,0.34883209584303193,"{'white': 8, 'asian': 1}","{'Man': 8, 'Woman': 1}",{'18-29': 9}
+resultados\Fighting\Fighting038_x264\analysis\Fighting038_x264_analysis.json,Fighting,8,4,white,Man,18-29,0.0,{'white': 4},{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Fighting\Fighting039_x264\analysis\Fighting039_x264_analysis.json,Fighting,39,6,white,Man,18-29,0.6365141682948128,"{'white': 4, 'asian': 2}",{'Man': 6},{'18-29': 6}
+resultados\Fighting\Fighting040_x264\analysis\Fighting040_x264_analysis.json,Fighting,6,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Fighting\Fighting041_x264\analysis\Fighting041_x264_analysis.json,Fighting,74,64,white,Man,18-29,1.2208822847111582,"{'white': 26, 'asian': 23, 'black': 12, 'middle eastern': 2, 'indian': 1}","{'Man': 59, 'Woman': 5}","{'18-29': 62, '30-44': 2}"
+resultados\Fighting\Fighting042_x264\analysis\Fighting042_x264_analysis.json,Fighting,4,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Fighting\Fighting043_x264\analysis\Fighting043_x264_analysis.json,Fighting,21,16,white,Man,18-29,0.8305236914828464,"{'white': 10, 'asian': 5, 'black': 1}","{'Man': 14, 'Woman': 2}","{'18-29': 11, '30-44': 5}"
+resultados\Fighting\Fighting044_x264\analysis\Fighting044_x264_analysis.json,Fighting,7,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Fighting\Fighting045_x264\analysis\Fighting045_x264_analysis.json,Fighting,10,3,asian,Woman,30-44,1.0986122886681096,"{'black': 1, 'white': 1, 'asian': 1}","{'Woman': 2, 'Man': 1}","{'30-44': 2, '18-29': 1}"
+resultados\Fighting\Fighting046_x264\analysis\Fighting046_x264_analysis.json,Fighting,12,10,asian,Man,18-29,0.6730116670092565,"{'asian': 6, 'white': 4}",{'Man': 10},{'18-29': 10}
+resultados\Fighting\Fighting047_x264\analysis\Fighting047_x264_analysis.json,Fighting,10,5,asian,Man,18-29,0.6730116670092565,"{'asian': 3, 'white': 2}",{'Man': 5},"{'18-29': 4, '30-44': 1}"
+resultados\Fighting\Fighting049_x264\analysis\Fighting049_x264_analysis.json,Fighting,6,5,asian,Man,18-29,0.6730116670092565,"{'asian': 3, 'white': 2}",{'Man': 5},"{'18-29': 4, '30-44': 1}"
+resultados\Fighting\Fighting050_x264\analysis\Fighting050_x264_analysis.json,Fighting,3,3,white,Man,18-29,0.0,{'white': 3},"{'Man': 2, 'Woman': 1}","{'18-29': 2, '30-44': 1}"
+resultados\Fighting\Fighting051_x264\analysis\Fighting051_x264_analysis.json,Fighting,7,5,asian,Man,18-29,0.9502705392332347,"{'asian': 3, 'white': 1, 'black': 1}",{'Man': 5},{'18-29': 5}
+resultados\Robbery\Robbery001_x264\analysis\Robbery001_x264_analysis.json,Robbery,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery002_x264\analysis\Robbery002_x264_analysis.json,Robbery,1,1,black,Man,18-29,0.0,{'black': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery004_x264\analysis\Robbery004_x264_analysis.json,Robbery,3,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery005_x264\analysis\Robbery005_x264_analysis.json,Robbery,8,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery006_x264\analysis\Robbery006_x264_analysis.json,Robbery,4,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Robbery\Robbery008_x264\analysis\Robbery008_x264_analysis.json,Robbery,5,5,black,Man,18-29,0.6730116670092565,"{'black': 3, 'white': 2}",{'Man': 5},"{'18-29': 3, '30-44': 2}"
+resultados\Robbery\Robbery009_x264\analysis\Robbery009_x264_analysis.json,Robbery,3,2,asian,Man,18-29,0.0,{'asian': 2},"{'Man': 1, 'Woman': 1}",{'18-29': 2}
+resultados\Robbery\Robbery010_x264\analysis\Robbery010_x264_analysis.json,Robbery,4,3,white,Man,18-29,0.0,{'white': 3},"{'Man': 2, 'Woman': 1}",{'18-29': 3}
+resultados\Robbery\Robbery012_x264\analysis\Robbery012_x264_analysis.json,Robbery,2,1,black,Man,30-44,0.0,{'black': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery013_x264\analysis\Robbery013_x264_analysis.json,Robbery,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery014_x264\analysis\Robbery014_x264_analysis.json,Robbery,8,7,black,Man,30-44,0.7963116401738131,"{'black': 5, 'middle eastern': 1, 'white': 1}",{'Man': 7},"{'30-44': 5, '18-29': 2}"
+resultados\Robbery\Robbery015_x264\analysis\Robbery015_x264_analysis.json,Robbery,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery016_x264\analysis\Robbery016_x264_analysis.json,Robbery,6,5,asian,Man,18-29,1.0549201679861442,"{'white': 2, 'asian': 2, 'black': 1}",{'Man': 5},{'18-29': 5}
+resultados\Robbery\Robbery017_x264\analysis\Robbery017_x264_analysis.json,Robbery,4,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery018_x264\analysis\Robbery018_x264_analysis.json,Robbery,6,4,asian,Man,18-29,0.6931471805599453,"{'asian': 2, 'white': 2}",{'Man': 4},"{'18-29': 2, '30-44': 2}"
+resultados\Robbery\Robbery019_x264\analysis\Robbery019_x264_analysis.json,Robbery,6,5,white,Man,18-29,0.6730116670092565,"{'white': 3, 'asian': 2}",{'Man': 5},{'18-29': 5}
+resultados\Robbery\Robbery020_x264\analysis\Robbery020_x264_analysis.json,Robbery,4,4,asian,Man,18-29,1.0397207708399179,"{'asian': 2, 'middle eastern': 1, 'black': 1}",{'Man': 4},{'18-29': 4}
+resultados\Robbery\Robbery021_x264\analysis\Robbery021_x264_analysis.json,Robbery,10,1,black,Man,30-44,0.0,{'black': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery022_x264\analysis\Robbery022_x264_analysis.json,Robbery,2,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery023_x264\analysis\Robbery023_x264_analysis.json,Robbery,4,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},{'18-29': 3}
+resultados\Robbery\Robbery024_x264\analysis\Robbery024_x264_analysis.json,Robbery,15,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery026_x264\analysis\Robbery026_x264_analysis.json,Robbery,6,4,white,Man,18-29,0.5623351446188083,"{'white': 3, 'indian': 1}","{'Man': 3, 'Woman': 1}",{'18-29': 4}
+resultados\Robbery\Robbery028_x264\analysis\Robbery028_x264_analysis.json,Robbery,3,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery030_x264\analysis\Robbery030_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery031_x264\analysis\Robbery031_x264_analysis.json,Robbery,5,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}","{'Woman': 1, 'Man': 1}",{'18-29': 2}
+resultados\Robbery\Robbery032_x264\analysis\Robbery032_x264_analysis.json,Robbery,10,2,white,Man,18-29,0.0,{'white': 2},"{'Woman': 1, 'Man': 1}",{'18-29': 2}
+resultados\Robbery\Robbery033_x264\analysis\Robbery033_x264_analysis.json,Robbery,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery034_x264\analysis\Robbery034_x264_analysis.json,Robbery,7,5,white,Man,18-29,0.6730116670092565,"{'white': 3, 'black': 2}",{'Man': 5},{'18-29': 5}
+resultados\Robbery\Robbery037_x264\analysis\Robbery037_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery038_x264\analysis\Robbery038_x264_analysis.json,Robbery,3,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery040_x264\analysis\Robbery040_x264_analysis.json,Robbery,3,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery041_x264\analysis\Robbery041_x264_analysis.json,Robbery,3,3,white,Man,30-44,0.6365141682948128,"{'white': 2, 'indian': 1}",{'Man': 3},"{'30-44': 2, '18-29': 1}"
+resultados\Robbery\Robbery042_x264\analysis\Robbery042_x264_analysis.json,Robbery,2,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Robbery\Robbery043_x264\analysis\Robbery043_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery044_x264\analysis\Robbery044_x264_analysis.json,Robbery,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery045_x264\analysis\Robbery045_x264_analysis.json,Robbery,3,2,black,Man,18-29,0.6931471805599453,"{'black': 1, 'white': 1}",{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Robbery\Robbery047_x264\analysis\Robbery047_x264_analysis.json,Robbery,5,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery048_x264\analysis\Robbery048_x264_analysis.json,Robbery,3,2,black,Man,18-29,0.0,{'black': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery049_x264\analysis\Robbery049_x264_analysis.json,Robbery,6,4,white,Man,18-29,1.0397207708399179,"{'white': 2, 'indian': 1, 'black': 1}","{'Man': 3, 'Woman': 1}",{'18-29': 4}
+resultados\Robbery\Robbery050_x264\analysis\Robbery050_x264_analysis.json,Robbery,4,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Robbery\Robbery051_x264\analysis\Robbery051_x264_analysis.json,Robbery,2,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery054_x264\analysis\Robbery054_x264_analysis.json,Robbery,4,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Robbery\Robbery055_x264\analysis\Robbery055_x264_analysis.json,Robbery,9,4,asian,Man,18-29,0.6931471805599453,"{'asian': 2, 'white': 2}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery056_x264\analysis\Robbery056_x264_analysis.json,Robbery,6,4,white,Man,18-29,0.5623351446188083,"{'white': 3, 'black': 1}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery058_x264\analysis\Robbery058_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery059_x264\analysis\Robbery059_x264_analysis.json,Robbery,4,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery061_x264\analysis\Robbery061_x264_analysis.json,Robbery,9,3,asian,Man,18-29,0.6365141682948128,"{'asian': 2, 'white': 1}",{'Man': 3},{'18-29': 3}
+resultados\Robbery\Robbery062_x264\analysis\Robbery062_x264_analysis.json,Robbery,7,4,asian,Woman,18-29,1.0397207708399179,"{'asian': 2, 'black': 1, 'white': 1}","{'Woman': 3, 'Man': 1}",{'18-29': 4}
+resultados\Robbery\Robbery066_x264\analysis\Robbery066_x264_analysis.json,Robbery,4,3,white,Man,30-44,0.0,{'white': 3},{'Man': 3},{'30-44': 3}
+resultados\Robbery\Robbery071_x264\analysis\Robbery071_x264_analysis.json,Robbery,2,2,white,Man,30-44,0.0,{'white': 2},{'Man': 2},{'30-44': 2}
+resultados\Robbery\Robbery072_x264\analysis\Robbery072_x264_analysis.json,Robbery,5,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery073_x264\analysis\Robbery073_x264_analysis.json,Robbery,6,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery074_x264\analysis\Robbery074_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery076_x264\analysis\Robbery076_x264_analysis.json,Robbery,6,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery077_x264\analysis\Robbery077_x264_analysis.json,Robbery,2,2,latino hispanic,Man,30-44,0.6931471805599453,"{'middle eastern': 1, 'latino hispanic': 1}",{'Man': 2},{'30-44': 2}
+resultados\Robbery\Robbery078_x264\analysis\Robbery078_x264_analysis.json,Robbery,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery079_x264\analysis\Robbery079_x264_analysis.json,Robbery,4,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery080_x264\analysis\Robbery080_x264_analysis.json,Robbery,5,4,asian,Man,18-29,0.6931471805599453,"{'white': 2, 'asian': 2}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery084_x264\analysis\Robbery084_x264_analysis.json,Robbery,7,2,white,Man,18-29,0.0,{'white': 2},"{'Woman': 1, 'Man': 1}",{'18-29': 2}
+resultados\Robbery\Robbery086_x264\analysis\Robbery086_x264_analysis.json,Robbery,3,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery087_x264\analysis\Robbery087_x264_analysis.json,Robbery,1,1,black,Man,30-44,0.0,{'black': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery088_x264\analysis\Robbery088_x264_analysis.json,Robbery,4,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Robbery\Robbery089_x264\analysis\Robbery089_x264_analysis.json,Robbery,3,2,asian,Man,18-29,0.6931471805599453,"{'middle eastern': 1, 'asian': 1}",{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Robbery\Robbery090_x264\analysis\Robbery090_x264_analysis.json,Robbery,7,4,asian,Man,18-29,0.5623351446188083,"{'asian': 3, 'white': 1}","{'Man': 3, 'Woman': 1}","{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery091_x264\analysis\Robbery091_x264_analysis.json,Robbery,2,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery093_x264\analysis\Robbery093_x264_analysis.json,Robbery,5,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Robbery\Robbery094_x264\analysis\Robbery094_x264_analysis.json,Robbery,8,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},{'18-29': 3}
+resultados\Robbery\Robbery097_x264\analysis\Robbery097_x264_analysis.json,Robbery,4,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},"{'18-29': 2, '30-44': 1}"
+resultados\Robbery\Robbery098_x264\analysis\Robbery098_x264_analysis.json,Robbery,8,4,asian,Man,18-29,1.0397207708399179,"{'asian': 2, 'white': 1, 'black': 1}","{'Woman': 2, 'Man': 2}","{'18-29': 2, '30-44': 2}"
+resultados\Robbery\Robbery099_x264\analysis\Robbery099_x264_analysis.json,Robbery,6,5,white,Man,18-29,0.9502705392332347,"{'white': 3, 'black': 1, 'asian': 1}",{'Man': 5},"{'18-29': 3, '30-44': 2}"
+resultados\Robbery\Robbery100_x264\analysis\Robbery100_x264_analysis.json,Robbery,7,6,white,Man,18-29,0.45056120886630463,"{'white': 5, 'asian': 1}",{'Man': 6},"{'18-29': 5, '30-44': 1}"
+resultados\Robbery\Robbery101_x264\analysis\Robbery101_x264_analysis.json,Robbery,8,4,white,Man,18-29,1.0397207708399179,"{'white': 2, 'middle eastern': 1, 'black': 1}","{'Man': 2, 'Woman': 2}","{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery103_x264\analysis\Robbery103_x264_analysis.json,Robbery,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery106_x264\analysis\Robbery106_x264_analysis.json,Robbery,5,4,white,Man,18-29,0.0,{'white': 4},"{'Man': 3, 'Woman': 1}",{'18-29': 4}
+resultados\Robbery\Robbery107_x264\analysis\Robbery107_x264_analysis.json,Robbery,4,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery108_x264\analysis\Robbery108_x264_analysis.json,Robbery,4,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery109_x264\analysis\Robbery109_x264_analysis.json,Robbery,8,3,asian,Man,18-29,1.0986122886681096,"{'asian': 1, 'white': 1, 'black': 1}",{'Man': 3},{'18-29': 3}
+resultados\Robbery\Robbery110_x264\analysis\Robbery110_x264_analysis.json,Robbery,2,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}","{'Woman': 1, 'Man': 1}","{'30-44': 1, '18-29': 1}"
+resultados\Robbery\Robbery111_x264\analysis\Robbery111_x264_analysis.json,Robbery,9,9,white,Man,18-29,0.34883209584303193,"{'white': 8, 'asian': 1}",{'Man': 9},"{'18-29': 7, '30-44': 2}"
+resultados\Robbery\Robbery114_x264\analysis\Robbery114_x264_analysis.json,Robbery,7,5,asian,Man,18-29,0.6730116670092565,"{'asian': 3, 'white': 2}",{'Man': 5},{'18-29': 5}
+resultados\Robbery\Robbery116_x264\analysis\Robbery116_x264_analysis.json,Robbery,2,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery117_x264\analysis\Robbery117_x264_analysis.json,Robbery,9,6,white,Man,18-29,0.8675632284814612,"{'white': 4, 'asian': 1, 'latino hispanic': 1}","{'Woman': 3, 'Man': 3}","{'18-29': 5, '30-44': 1}"
+resultados\Robbery\Robbery118_x264\analysis\Robbery118_x264_analysis.json,Robbery,4,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Robbery\Robbery119_x264\analysis\Robbery119_x264_analysis.json,Robbery,3,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery120_x264\analysis\Robbery120_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery121_x264\analysis\Robbery121_x264_analysis.json,Robbery,3,2,black,Man,30-44,0.6931471805599453,"{'black': 1, 'white': 1}",{'Man': 2},{'30-44': 2}
+resultados\Robbery\Robbery122_x264\analysis\Robbery122_x264_analysis.json,Robbery,3,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery123_x264\analysis\Robbery123_x264_analysis.json,Robbery,2,1,white,Woman,30-44,0.0,{'white': 1},{'Woman': 1},{'30-44': 1}
+resultados\Robbery\Robbery124_x264\analysis\Robbery124_x264_analysis.json,Robbery,7,6,asian,Man,18-29,1.0114042647073516,"{'asian': 3, 'white': 2, 'black': 1}",{'Man': 6},"{'18-29': 5, '30-44': 1}"
+resultados\Robbery\Robbery125_x264\analysis\Robbery125_x264_analysis.json,Robbery,3,2,middle eastern,Man,30-44,0.6931471805599453,"{'white': 1, 'middle eastern': 1}",{'Man': 2},{'30-44': 2}
+resultados\Robbery\Robbery126_x264\analysis\Robbery126_x264_analysis.json,Robbery,5,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery127_x264\analysis\Robbery127_x264_analysis.json,Robbery,3,2,middle eastern,Man,18-29,0.6931471805599453,"{'white': 1, 'middle eastern': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery128_x264\analysis\Robbery128_x264_analysis.json,Robbery,4,4,asian,Man,18-29,0.5623351446188083,"{'asian': 3, 'white': 1}","{'Man': 3, 'Woman': 1}",{'18-29': 4}
+resultados\Robbery\Robbery129_x264\analysis\Robbery129_x264_analysis.json,Robbery,1,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Robbery\Robbery131_x264\analysis\Robbery131_x264_analysis.json,Robbery,6,4,white,Man,18-29,1.0397207708399179,"{'white': 2, 'asian': 1, 'black': 1}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery132_x264\analysis\Robbery132_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery133_x264\analysis\Robbery133_x264_analysis.json,Robbery,4,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery135_x264\analysis\Robbery135_x264_analysis.json,Robbery,4,3,white,Man,30-44,0.6365141682948128,"{'white': 2, 'middle eastern': 1}",{'Man': 3},{'30-44': 3}
+resultados\Robbery\Robbery136_x264\analysis\Robbery136_x264_analysis.json,Robbery,1,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Robbery\Robbery137_x264\analysis\Robbery137_x264_analysis.json,Robbery,5,4,asian,Man,18-29,0.6931471805599453,"{'asian': 2, 'white': 2}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Robbery\Robbery139_x264\analysis\Robbery139_x264_analysis.json,Robbery,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery140_x264\analysis\Robbery140_x264_analysis.json,Robbery,2,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery141_x264\analysis\Robbery141_x264_analysis.json,Robbery,8,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}",{'Man': 3},{'18-29': 3}
+resultados\Robbery\Robbery142_x264\analysis\Robbery142_x264_analysis.json,Robbery,2,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery144_x264\analysis\Robbery144_x264_analysis.json,Robbery,2,2,white,Man,18-29,0.0,{'white': 2},"{'Woman': 1, 'Man': 1}",{'18-29': 2}
+resultados\Robbery\Robbery146_x264\analysis\Robbery146_x264_analysis.json,Robbery,3,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Robbery\Robbery147_x264\analysis\Robbery147_x264_analysis.json,Robbery,3,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Robbery\Robbery148_x264\analysis\Robbery148_x264_analysis.json,Robbery,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Robbery\Robbery149_x264\analysis\Robbery149_x264_analysis.json,Robbery,2,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Shooting\Shooting001_x264\analysis\Shooting001_x264_analysis.json,Shooting,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting002_x264\analysis\Shooting002_x264_analysis.json,Shooting,8,3,black,Woman,18-29,0.6365141682948128,"{'black': 2, 'asian': 1}","{'Woman': 2, 'Man': 1}",{'18-29': 3}
+resultados\Shooting\Shooting004_x264\analysis\Shooting004_x264_analysis.json,Shooting,2,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Shooting\Shooting006_x264\analysis\Shooting006_x264_analysis.json,Shooting,4,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},{'18-29': 2}
+resultados\Shooting\Shooting009_x264\analysis\Shooting009_x264_analysis.json,Shooting,2,1,black,Man,18-29,0.0,{'black': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting011_x264\analysis\Shooting011_x264_analysis.json,Shooting,7,2,black,Man,18-29,0.0,{'black': 2},{'Man': 2},{'18-29': 2}
+resultados\Shooting\Shooting014_x264\analysis\Shooting014_x264_analysis.json,Shooting,4,4,asian,Man,18-29,0.6931471805599453,"{'asian': 2, 'white': 2}",{'Man': 4},{'18-29': 4}
+resultados\Shooting\Shooting015_x264\analysis\Shooting015_x264_analysis.json,Shooting,3,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting017_x264\analysis\Shooting017_x264_analysis.json,Shooting,2,1,black,Man,18-29,0.0,{'black': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting018_x264\analysis\Shooting018_x264_analysis.json,Shooting,4,3,asian,Man,18-29,0.0,{'asian': 3},{'Man': 3},{'18-29': 3}
+resultados\Shooting\Shooting020_x264\analysis\Shooting020_x264_analysis.json,Shooting,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting022_x264\analysis\Shooting022_x264_analysis.json,Shooting,2,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Shooting\Shooting025_x264\analysis\Shooting025_x264_analysis.json,Shooting,3,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Shooting\Shooting026_x264\analysis\Shooting026_x264_analysis.json,Shooting,2,1,white,Woman,30-44,0.0,{'white': 1},{'Woman': 1},{'30-44': 1}
+resultados\Shooting\Shooting028_x264\analysis\Shooting028_x264_analysis.json,Shooting,2,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting030_x264\analysis\Shooting030_x264_analysis.json,Shooting,3,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},{'18-29': 2}
+resultados\Shooting\Shooting031_x264\analysis\Shooting031_x264_analysis.json,Shooting,9,4,asian,Man,18-29,0.6931471805599453,"{'asian': 2, 'white': 2}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Shooting\Shooting032_x264\analysis\Shooting032_x264_analysis.json,Shooting,10,3,asian,Man,18-29,0.0,{'asian': 3},{'Man': 3},{'18-29': 3}
+resultados\Shooting\Shooting033_x264\analysis\Shooting033_x264_analysis.json,Shooting,3,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting038_x264\analysis\Shooting038_x264_analysis.json,Shooting,3,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Shooting\Shooting040_x264\analysis\Shooting040_x264_analysis.json,Shooting,3,2,white,Man,18-29,0.0,{'white': 2},"{'Man': 1, 'Woman': 1}",{'18-29': 2}
+resultados\Shooting\Shooting046_x264\analysis\Shooting046_x264_analysis.json,Shooting,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shooting\Shooting047_x264\analysis\Shooting047_x264_analysis.json,Shooting,9,2,white,Man,18-29,0.0,{'white': 2},"{'Man': 1, 'Woman': 1}","{'30-44': 1, '18-29': 1}"
+resultados\Shooting\Shooting048_x264\analysis\Shooting048_x264_analysis.json,Shooting,7,7,white,Woman,18-29,0.6829081047004717,"{'white': 4, 'asian': 3}","{'Woman': 4, 'Man': 3}","{'18-29': 5, '30-44': 2}"
+resultados\Shooting\Shooting050_x264\analysis\Shooting050_x264_analysis.json,Shooting,4,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Shooting\Shooting054_x264\analysis\Shooting054_x264_analysis.json,Shooting,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shoplifting\Shoplifting001_x264\analysis\Shoplifting001_x264_analysis.json,Shoplifting,4,1,middle eastern,Man,18-29,0.0,{'middle eastern': 1},{'Man': 1},{'18-29': 1}
+resultados\Shoplifting\Shoplifting003_x264\analysis\Shoplifting003_x264_analysis.json,Shoplifting,6,6,white,Man,18-29,1.0114042647073516,"{'white': 3, 'middle eastern': 2, 'latino hispanic': 1}",{'Man': 6},{'18-29': 6}
+resultados\Shoplifting\Shoplifting004_x264\analysis\Shoplifting004_x264_analysis.json,Shoplifting,5,4,white,Man,30-44,0.5623351446188083,"{'white': 3, 'asian': 1}",{'Man': 4},"{'30-44': 3, '18-29': 1}"
+resultados\Shoplifting\Shoplifting005_x264\analysis\Shoplifting005_x264_analysis.json,Shoplifting,8,4,white,Man,18-29,0.5623351446188083,"{'white': 3, 'black': 1}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Shoplifting\Shoplifting006_x264\analysis\Shoplifting006_x264_analysis.json,Shoplifting,3,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},"{'18-29': 2, '30-44': 1}"
+resultados\Shoplifting\Shoplifting007_x264\analysis\Shoplifting007_x264_analysis.json,Shoplifting,5,5,white,Man,18-29,1.3321790402101223,"{'white': 2, 'asian': 1, 'black': 1, 'middle eastern': 1}",{'Man': 5},"{'18-29': 3, '30-44': 2}"
+resultados\Shoplifting\Shoplifting008_x264\analysis\Shoplifting008_x264_analysis.json,Shoplifting,5,4,white,Man,30-44,0.0,{'white': 4},{'Man': 4},{'30-44': 4}
+resultados\Shoplifting\Shoplifting009_x264\analysis\Shoplifting009_x264_analysis.json,Shoplifting,4,4,asian,Man,18-29,0.5623351446188083,"{'asian': 3, 'white': 1}",{'Man': 4},"{'18-29': 2, '30-44': 2}"
+resultados\Shoplifting\Shoplifting010_x264\analysis\Shoplifting010_x264_analysis.json,Shoplifting,3,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},{'18-29': 3}
+resultados\Shoplifting\Shoplifting012_x264\analysis\Shoplifting012_x264_analysis.json,Shoplifting,7,6,white,Man,18-29,1.0114042647073516,"{'white': 3, 'asian': 2, 'black': 1}",{'Man': 6},"{'18-29': 5, '30-44': 1}"
+resultados\Shoplifting\Shoplifting014_x264\analysis\Shoplifting014_x264_analysis.json,Shoplifting,8,5,white,Man,30-44,0.6730116670092565,"{'white': 3, 'black': 2}",{'Man': 5},"{'30-44': 3, '18-29': 2}"
+resultados\Shoplifting\Shoplifting015_x264\analysis\Shoplifting015_x264_analysis.json,Shoplifting,4,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}","{'Man': 2, 'Woman': 1}","{'18-29': 2, '30-44': 1}"
+resultados\Shoplifting\Shoplifting017_x264\analysis\Shoplifting017_x264_analysis.json,Shoplifting,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Shoplifting\Shoplifting018_x264\analysis\Shoplifting018_x264_analysis.json,Shoplifting,4,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Shoplifting\Shoplifting019_x264\analysis\Shoplifting019_x264_analysis.json,Shoplifting,3,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}","{'Man': 2, 'Woman': 1}","{'18-29': 2, '30-44': 1}"
+resultados\Shoplifting\Shoplifting020_x264\analysis\Shoplifting020_x264_analysis.json,Shoplifting,4,2,black,Man,18-29,0.0,{'black': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Shoplifting\Shoplifting021_x264\analysis\Shoplifting021_x264_analysis.json,Shoplifting,2,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Shoplifting\Shoplifting022_x264\analysis\Shoplifting022_x264_analysis.json,Shoplifting,4,4,white,Man,18-29,0.0,{'white': 4},{'Man': 4},{'18-29': 4}
+resultados\Shoplifting\Shoplifting024_x264\analysis\Shoplifting024_x264_analysis.json,Shoplifting,4,3,asian,Man,18-29,1.0986122886681096,"{'asian': 1, 'white': 1, 'latino hispanic': 1}",{'Man': 3},{'18-29': 3}
+resultados\Shoplifting\Shoplifting025_x264\analysis\Shoplifting025_x264_analysis.json,Shoplifting,2,2,asian,Woman,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Woman': 2},{'18-29': 2}
+resultados\Shoplifting\Shoplifting027_x264\analysis\Shoplifting027_x264_analysis.json,Shoplifting,4,1,asian,Man,30-44,0.0,{'asian': 1},{'Man': 1},{'30-44': 1}
+resultados\Shoplifting\Shoplifting028_x264\analysis\Shoplifting028_x264_analysis.json,Shoplifting,2,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Shoplifting\Shoplifting029_x264\analysis\Shoplifting029_x264_analysis.json,Shoplifting,3,3,asian,Man,18-29,0.6365141682948128,"{'asian': 2, 'white': 1}","{'Man': 2, 'Woman': 1}",{'18-29': 3}
+resultados\Shoplifting\Shoplifting030_x264\analysis\Shoplifting030_x264_analysis.json,Shoplifting,3,2,white,Man,18-29,0.0,{'white': 2},"{'Woman': 1, 'Man': 1}",{'18-29': 2}
+resultados\Shoplifting\Shoplifting031_x264\analysis\Shoplifting031_x264_analysis.json,Shoplifting,2,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Shoplifting\Shoplifting032_x264\analysis\Shoplifting032_x264_analysis.json,Shoplifting,3,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},{'18-29': 3}
+resultados\Shoplifting\Shoplifting033_x264\analysis\Shoplifting033_x264_analysis.json,Shoplifting,4,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}",{'Man': 3},{'18-29': 3}
+resultados\Shoplifting\Shoplifting034_x264\analysis\Shoplifting034_x264_analysis.json,Shoplifting,5,4,asian,Man,18-29,0.6931471805599453,"{'white': 2, 'asian': 2}",{'Man': 4},"{'18-29': 3, '30-44': 1}"
+resultados\Shoplifting\Shoplifting036_x264\analysis\Shoplifting036_x264_analysis.json,Shoplifting,6,5,asian,Man,18-29,0.9502705392332347,"{'asian': 3, 'white': 1, 'black': 1}",{'Man': 5},{'18-29': 5}
+resultados\Shoplifting\Shoplifting037_x264\analysis\Shoplifting037_x264_analysis.json,Shoplifting,2,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Shoplifting\Shoplifting038_x264\analysis\Shoplifting038_x264_analysis.json,Shoplifting,4,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Shoplifting\Shoplifting039_x264\analysis\Shoplifting039_x264_analysis.json,Shoplifting,11,5,white,Man,18-29,0.0,{'white': 5},{'Man': 5},"{'18-29': 3, '30-44': 2}"
+resultados\Shoplifting\Shoplifting040_x264\analysis\Shoplifting040_x264_analysis.json,Shoplifting,9,7,asian,Man,18-29,0.6829081047004717,"{'asian': 4, 'white': 3}","{'Man': 5, 'Woman': 2}",{'18-29': 7}
+resultados\Shoplifting\Shoplifting041_x264\analysis\Shoplifting041_x264_analysis.json,Shoplifting,6,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}",{'Man': 3},{'18-29': 3}
+resultados\Shoplifting\Shoplifting042_x264\analysis\Shoplifting042_x264_analysis.json,Shoplifting,6,5,white,Man,18-29,0.9502705392332347,"{'white': 3, 'indian': 1, 'black': 1}",{'Man': 5},"{'18-29': 4, '30-44': 1}"
+resultados\Shoplifting\Shoplifting043_x264\analysis\Shoplifting043_x264_analysis.json,Shoplifting,3,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},"{'30-44': 1, '18-29': 1}"
+resultados\Shoplifting\Shoplifting044_x264\analysis\Shoplifting044_x264_analysis.json,Shoplifting,7,6,black,Man,30-44,0.6931471805599453,"{'black': 3, 'white': 3}",{'Man': 6},"{'30-44': 4, '18-29': 2}"
+resultados\Shoplifting\Shoplifting045_x264\analysis\Shoplifting045_x264_analysis.json,Shoplifting,3,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Shoplifting\Shoplifting047_x264\analysis\Shoplifting047_x264_analysis.json,Shoplifting,6,5,asian,Man,18-29,1.6094379124341005,"{'asian': 1, 'white': 1, 'indian': 1, 'middle eastern': 1, 'black': 1}",{'Man': 5},{'18-29': 5}
+resultados\Shoplifting\Shoplifting048_x264\analysis\Shoplifting048_x264_analysis.json,Shoplifting,9,7,white,Man,18-29,1.0789922078775833,"{'white': 3, 'black': 2, 'asian': 2}","{'Man': 5, 'Woman': 2}","{'18-29': 5, '30-44': 2}"
+resultados\Shoplifting\Shoplifting049_x264\analysis\Shoplifting049_x264_analysis.json,Shoplifting,3,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}",{'Man': 3},{'18-29': 3}
+resultados\Shoplifting\Shoplifting050_x264\analysis\Shoplifting050_x264_analysis.json,Shoplifting,3,3,asian,Man,18-29,0.0,{'asian': 3},{'Man': 3},"{'18-29': 2, '30-44': 1}"
+resultados\Shoplifting\Shoplifting051_x264\analysis\Shoplifting051_x264_analysis.json,Shoplifting,5,4,asian,Man,30-44,1.0397207708399179,"{'asian': 2, 'white': 1, 'black': 1}",{'Man': 4},"{'30-44': 3, '18-29': 1}"
+resultados\Shoplifting\Shoplifting052_x264\analysis\Shoplifting052_x264_analysis.json,Shoplifting,9,4,middle eastern,Man,18-29,0.6931471805599453,"{'middle eastern': 2, 'white': 2}",{'Man': 4},{'18-29': 4}
+resultados\Shoplifting\Shoplifting053_x264\analysis\Shoplifting053_x264_analysis.json,Shoplifting,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shoplifting\Shoplifting054_x264\analysis\Shoplifting054_x264_analysis.json,Shoplifting,3,1,indian,Man,18-29,0.0,{'indian': 1},{'Man': 1},{'18-29': 1}
+resultados\Shoplifting\Shoplifting055_x264\analysis\Shoplifting055_x264_analysis.json,Shoplifting,10,4,white,Man,18-29,0.5623351446188083,"{'white': 3, 'asian': 1}",{'Man': 4},{'18-29': 4}
+resultados\Stealing\Stealing002_x264\analysis\Stealing002_x264_analysis.json,Stealing,5,3,asian,Man,18-29,0.6365141682948128,"{'asian': 2, 'white': 1}",{'Man': 3},{'18-29': 3}
+resultados\Stealing\Stealing004_x264\analysis\Stealing004_x264_analysis.json,Stealing,7,6,black,Man,18-29,1.329661348854758,"{'white': 2, 'black': 2, 'asian': 1, 'middle eastern': 1}",{'Man': 6},"{'18-29': 5, '30-44': 1}"
+resultados\Stealing\Stealing006_x264\analysis\Stealing006_x264_analysis.json,Stealing,4,3,asian,Man,18-29,1.0986122886681096,"{'black': 1, 'white': 1, 'asian': 1}",{'Man': 3},{'18-29': 3}
+resultados\Stealing\Stealing007_x264\analysis\Stealing007_x264_analysis.json,Stealing,10,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},{'18-29': 3}
+resultados\Stealing\Stealing009_x264\analysis\Stealing009_x264_analysis.json,Stealing,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing010_x264\analysis\Stealing010_x264_analysis.json,Stealing,7,2,asian,Man,18-29,0.6931471805599453,"{'middle eastern': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Stealing\Stealing011_x264\analysis\Stealing011_x264_analysis.json,Stealing,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing012_x264\analysis\Stealing012_x264_analysis.json,Stealing,4,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing014_x264\analysis\Stealing014_x264_analysis.json,Stealing,2,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},"{'18-29': 1, '30-44': 1}"
+resultados\Stealing\Stealing016_x264\analysis\Stealing016_x264_analysis.json,Stealing,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing017_x264\analysis\Stealing017_x264_analysis.json,Stealing,3,1,white,Woman,30-44,0.0,{'white': 1},{'Woman': 1},{'30-44': 1}
+resultados\Stealing\Stealing018_x264\analysis\Stealing018_x264_analysis.json,Stealing,2,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing019_x264\analysis\Stealing019_x264_analysis.json,Stealing,2,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing022_x264\analysis\Stealing022_x264_analysis.json,Stealing,1,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing024_x264\analysis\Stealing024_x264_analysis.json,Stealing,1,1,indian,Man,18-29,0.0,{'indian': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing025_x264\analysis\Stealing025_x264_analysis.json,Stealing,11,7,white,Man,18-29,0.5982695885852573,"{'white': 5, 'asian': 2}",{'Man': 7},{'18-29': 7}
+resultados\Stealing\Stealing028_x264\analysis\Stealing028_x264_analysis.json,Stealing,1,1,black,Man,18-29,0.0,{'black': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing031_x264\analysis\Stealing031_x264_analysis.json,Stealing,2,2,asian,Man,18-29,0.0,{'asian': 2},{'Man': 2},{'18-29': 2}
+resultados\Stealing\Stealing032_x264\analysis\Stealing032_x264_analysis.json,Stealing,5,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Stealing\Stealing036_x264\analysis\Stealing036_x264_analysis.json,Stealing,7,4,asian,Man,18-29,1.0397207708399179,"{'asian': 2, 'black': 1, 'white': 1}","{'Man': 3, 'Woman': 1}","{'18-29': 3, '30-44': 1}"
+resultados\Stealing\Stealing037_x264\analysis\Stealing037_x264_analysis.json,Stealing,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing044_x264\analysis\Stealing044_x264_analysis.json,Stealing,1,1,asian,Woman,18-29,0.0,{'asian': 1},{'Woman': 1},{'18-29': 1}
+resultados\Stealing\Stealing047_x264\analysis\Stealing047_x264_analysis.json,Stealing,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing048_x264\analysis\Stealing048_x264_analysis.json,Stealing,6,3,asian,Man,18-29,0.0,{'asian': 3},{'Man': 3},"{'18-29': 2, '30-44': 1}"
+resultados\Stealing\Stealing055_x264\analysis\Stealing055_x264_analysis.json,Stealing,5,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Stealing\Stealing057_x264\analysis\Stealing057_x264_analysis.json,Stealing,2,1,asian,Woman,30-44,0.0,{'asian': 1},{'Woman': 1},{'30-44': 1}
+resultados\Stealing\Stealing060_x264\analysis\Stealing060_x264_analysis.json,Stealing,2,2,asian,Woman,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Woman': 2},{'18-29': 2}
+resultados\Stealing\Stealing063_x264\analysis\Stealing063_x264_analysis.json,Stealing,3,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing068_x264\analysis\Stealing068_x264_analysis.json,Stealing,6,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing075_x264\analysis\Stealing075_x264_analysis.json,Stealing,2,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Stealing\Stealing077_x264\analysis\Stealing077_x264_analysis.json,Stealing,9,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Stealing\Stealing078_x264\analysis\Stealing078_x264_analysis.json,Stealing,2,1,asian,Woman,18-29,0.0,{'asian': 1},{'Woman': 1},{'18-29': 1}
+resultados\Stealing\Stealing079_x264\analysis\Stealing079_x264_analysis.json,Stealing,6,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Stealing\Stealing086_x264\analysis\Stealing086_x264_analysis.json,Stealing,8,4,white,Man,18-29,0.0,{'white': 4},{'Man': 4},{'18-29': 4}
+resultados\Stealing\Stealing091_x264\analysis\Stealing091_x264_analysis.json,Stealing,6,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Stealing\Stealing092_x264\analysis\Stealing092_x264_analysis.json,Stealing,4,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Stealing\Stealing101_x264\analysis\Stealing101_x264_analysis.json,Stealing,8,4,white,Man,18-29,1.0397207708399179,"{'white': 2, 'middle eastern': 1, 'black': 1}","{'Man': 3, 'Woman': 1}","{'18-29': 3, '30-44': 1}"
+resultados\Stealing\Stealing102_x264\analysis\Stealing102_x264_analysis.json,Stealing,2,1,asian,Woman,18-29,0.0,{'asian': 1},{'Woman': 1},{'18-29': 1}
+resultados\Stealing\Stealing103_x264\analysis\Stealing103_x264_analysis.json,Stealing,8,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing104_x264\analysis\Stealing104_x264_analysis.json,Stealing,5,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing105_x264\analysis\Stealing105_x264_analysis.json,Stealing,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Stealing\Stealing107_x264\analysis\Stealing107_x264_analysis.json,Stealing,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Vandalism\Vandalism008_x264\analysis\Vandalism008_x264_analysis.json,Vandalism,8,2,white,Man,18-29,0.0,{'white': 2},{'Man': 2},{'18-29': 2}
+resultados\Vandalism\Vandalism010_x264\analysis\Vandalism010_x264_analysis.json,Vandalism,9,7,white,Man,18-29,0.5982695885852573,"{'white': 5, 'asian': 2}","{'Man': 6, 'Woman': 1}",{'18-29': 7}
+resultados\Vandalism\Vandalism014_x264\analysis\Vandalism014_x264_analysis.json,Vandalism,2,1,white,Woman,18-29,0.0,{'white': 1},{'Woman': 1},{'18-29': 1}
+resultados\Vandalism\Vandalism017_x264\analysis\Vandalism017_x264_analysis.json,Vandalism,2,2,asian,Man,18-29,0.6931471805599453,"{'white': 1, 'asian': 1}",{'Man': 2},{'18-29': 2}
+resultados\Vandalism\Vandalism018_x264\analysis\Vandalism018_x264_analysis.json,Vandalism,13,4,asian,Man,18-29,0.5623351446188083,"{'asian': 3, 'white': 1}",{'Man': 4},"{'30-44': 2, '18-29': 2}"
+resultados\Vandalism\Vandalism019_x264\analysis\Vandalism019_x264_analysis.json,Vandalism,2,1,white,Man,18-29,0.0,{'white': 1},{'Man': 1},{'18-29': 1}
+resultados\Vandalism\Vandalism025_x264\analysis\Vandalism025_x264_analysis.json,Vandalism,5,4,white,Man,18-29,0.5623351446188083,"{'white': 3, 'black': 1}","{'Woman': 2, 'Man': 2}",{'18-29': 4}
+resultados\Vandalism\Vandalism026_x264\analysis\Vandalism026_x264_analysis.json,Vandalism,1,1,asian,Man,18-29,0.0,{'asian': 1},{'Man': 1},{'18-29': 1}
+resultados\Vandalism\Vandalism030_x264\analysis\Vandalism030_x264_analysis.json,Vandalism,3,1,white,Man,30-44,0.0,{'white': 1},{'Man': 1},{'30-44': 1}
+resultados\Vandalism\Vandalism031_x264\analysis\Vandalism031_x264_analysis.json,Vandalism,5,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}",{'Man': 3},"{'18-29': 2, '30-44': 1}"
+resultados\Vandalism\Vandalism034_x264\analysis\Vandalism034_x264_analysis.json,Vandalism,5,3,white,Man,18-29,0.0,{'white': 3},{'Man': 3},{'18-29': 3}
+resultados\Vandalism\Vandalism036_x264\analysis\Vandalism036_x264_analysis.json,Vandalism,1,1,asian,Man,30-44,0.0,{'asian': 1},{'Man': 1},{'30-44': 1}
+resultados\Vandalism\Vandalism038_x264\analysis\Vandalism038_x264_analysis.json,Vandalism,2,1,asian,Woman,18-29,0.0,{'asian': 1},{'Woman': 1},{'18-29': 1}
+resultados\Vandalism\Vandalism040_x264\analysis\Vandalism040_x264_analysis.json,Vandalism,7,3,asian,Man,18-29,1.0986122886681096,"{'asian': 1, 'black': 1, 'white': 1}","{'Man': 2, 'Woman': 1}","{'18-29': 2, '30-44': 1}"
+resultados\Vandalism\Vandalism042_x264\analysis\Vandalism042_x264_analysis.json,Vandalism,11,3,white,Man,18-29,0.6365141682948128,"{'white': 2, 'asian': 1}","{'Man': 2, 'Woman': 1}","{'18-29': 2, '30-44': 1}"
+resultados\Vandalism\Vandalism043_x264\analysis\Vandalism043_x264_analysis.json,Vandalism,10,6,white,Man,18-29,1.0114042647073516,"{'white': 3, 'middle eastern': 2, 'asian': 1}","{'Man': 5, 'Woman': 1}",{'18-29': 6}
+resultados\Vandalism\Vandalism048_x264\analysis\Vandalism048_x264_analysis.json,Vandalism,8,4,asian,Man,18-29,0.0,{'asian': 4},"{'Woman': 2, 'Man': 2}",{'18-29': 4}
+resultados\Vandalism\Vandalism049_x264\analysis\Vandalism049_x264_analysis.json,Vandalism,11,2,asian,Man,18-29,0.6931471805599453,"{'asian': 1, 'white': 1}",{'Man': 2},"{'18-29': 1, '30-44': 1}"

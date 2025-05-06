@@ -1,0 +1,32 @@
+name: tcc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - opencv
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - h5py
+  - facexlib
+  - lmdb
+  - numpy
+  - pyyaml
+  - scipy
+  - tqdm
+  - yapf
+
+  - tf-keras
+  - pip:
+      - basicsr
+      - ultralytics
+      - tb-nightly
+      - torch
+      - torchvision
+      - gfpgan
+      - deepsort
+      - deepface
