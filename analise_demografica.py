@@ -32,7 +32,6 @@ def extrair_dados_demograficos(dados_videos):
     }
     
     for video in dados_videos:
-        # Estatísticas gerais do vídeo
         stats = video['video_stats']
         dados_agregados['videos_por_categoria'][stats['crime_category']] += 1
         dados_agregados['pessoas_por_video'].append(stats['total_persons_detected'])
@@ -40,7 +39,6 @@ def extrair_dados_demograficos(dados_videos):
         dados_agregados['resolucoes'][stats['resolution']] += 1
         dados_agregados['condicoes_luz'][stats['lighting_condition']] += 1
         
-        # Análise por pessoa
         for person_id, person_data in video['persons'].items():
             if person_data['faces_detected']:
                 dados_agregados['confianca_media_pessoa'].append(person_data['avg_confidence'])
@@ -56,14 +54,11 @@ def extrair_dados_demograficos(dados_videos):
     return dados_agregados
 
 def criar_visualizacoes(dados_agregados):
-    # Configuração do estilo
     sns.set_theme()
     sns.set_palette("husl")
     
-    # Criar diretório para salvar os gráficos
     os.makedirs('analise_graficos', exist_ok=True)
     
-    # 1. Distribuição de Raças
     plt.figure(figsize=(12, 6))
     sns.barplot(x=list(dados_agregados['raças'].keys()), 
                 y=list(dados_agregados['raças'].values()))
@@ -73,7 +68,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_racas.png')
     plt.close()
     
-    # 2. Distribuição de Gêneros
     plt.figure(figsize=(8, 6))
     plt.pie(dados_agregados['gêneros'].values(), 
             labels=dados_agregados['gêneros'].keys(),
@@ -82,7 +76,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_generos.png')
     plt.close()
     
-    # 3. Distribuição de Faixas Etárias
     plt.figure(figsize=(10, 6))
     sns.barplot(x=list(dados_agregados['faixas_etarias'].keys()), 
                 y=list(dados_agregados['faixas_etarias'].values()))
@@ -92,7 +85,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_idades.png')
     plt.close()
     
-    # 4. Distribuição de Pessoas por Vídeo
     plt.figure(figsize=(10, 6))
     sns.histplot(dados_agregados['pessoas_por_video'], bins=20)
     plt.title('Distribuição do Número de Pessoas por Vídeo')
@@ -101,7 +93,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_pessoas_por_video.png')
     plt.close()
     
-    # 5. Boxplot de Confiança
     plt.figure(figsize=(10, 6))
     dados_confianca = pd.DataFrame({
         'Confiança Face': dados_agregados['confianca_media_face'],
@@ -112,7 +103,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_confianca.png')
     plt.close()
     
-    # 6. Distribuição de Resoluções
     plt.figure(figsize=(10, 6))
     sns.barplot(x=list(dados_agregados['resolucoes'].keys()), 
                 y=list(dados_agregados['resolucoes'].values()))
@@ -122,7 +112,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_resolucoes.png')
     plt.close()
     
-    # 7. Condições de Iluminação
     plt.figure(figsize=(8, 6))
     plt.pie(dados_agregados['condicoes_luz'].values(), 
             labels=dados_agregados['condicoes_luz'].keys(),
@@ -131,7 +120,6 @@ def criar_visualizacoes(dados_agregados):
     plt.savefig('analise_graficos/distribuicao_iluminacao.png')
     plt.close()
     
-    # 8. Relação entre Número de Pessoas e Faces
     plt.figure(figsize=(10, 6))
     sns.scatterplot(x=dados_agregados['pessoas_por_video'], 
                    y=dados_agregados['faces_por_video'])
@@ -189,23 +177,18 @@ def gerar_relatorio_estatistico(dados_agregados):
         }
     }
     
-    # Converter valores numpy para tipos Python nativos
     relatorio = converter_para_serializavel(relatorio)
     
     with open('analise_graficos/relatorio_estatistico.json', 'w') as f:
         json.dump(relatorio, f, indent=4)
 
 def main():
-    # Carregar dados
     dados_videos = carregar_dados_json('resultados')
     
-    # Extrair e agregar dados
     dados_agregados = extrair_dados_demograficos(dados_videos)
     
-    # Criar visualizações
     criar_visualizacoes(dados_agregados)
     
-    # Gerar relatório estatístico
     gerar_relatorio_estatistico(dados_agregados)
     
     print("Análise concluída! Os gráficos e relatório foram salvos no diretório 'analise_graficos'")

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import argparse
 import sys
@@ -8,32 +7,26 @@ import time
 from video_processor import process_video, process_dataset
 
 def parse_arguments():
-    """Parse command line arguments."""
     parser = argparse.ArgumentParser(
         description='Process videos for person tracking and face analysis',
         formatter_class=argparse.ArgumentDefaultsHelpFormatter
     )
     
-    # Create subparsers for different modes
     subparsers = parser.add_subparsers(dest='mode', help='Processing mode')
     
-    # Single video mode
     video_parser = subparsers.add_parser('video', help='Process a single video')
     video_parser.add_argument('input_path',type=str, help='Path to input video file')
     video_parser.add_argument('--output-dir', type=str, default='output', help='Output directory')
     video_parser.add_argument('--category', type=str, help='Crime category (optional)')
     
-    # Dataset mode
     dataset_parser = subparsers.add_parser('dataset', help='Process a dataset of videos')
     dataset_parser.add_argument('--dataset_dir', type=str, default='dataset', help='Path to dataset directory')
     dataset_parser.add_argument('--output-dir', type=str, default='output', help='Output directory')
     dataset_parser.add_argument('--force-reprocess', action='store_true', 
                                help='Force reprocessing of all videos, ignoring checkpoints')
     
-    # Parse arguments
     args = parser.parse_args()
     
-    # Validate arguments
     if args.mode is None:
         parser.print_help()
         sys.exit(1)
@@ -50,16 +43,13 @@ def parse_arguments():
 
 def main():
     """Main entry point for the application."""
-    # Parse command line arguments
     args = parse_arguments()
     
-    # Record start time
     start_time = time.time()
     
     if args.mode == 'video':
         print(f"Processing video: {args.input_path}")
         
-        # Create specific output directories
         video_name = os.path.splitext(os.path.basename(args.input_path))[0]
         output_dir = os.path.join(args.output_dir, args.category or "unclassified")
         video_output_dir = os.path.join(output_dir, video_name)
@@ -67,10 +57,8 @@ def main():
         analysis_dir = os.path.join(video_output_dir, "analysis")
         video_out_path = os.path.join(video_output_dir, f"{video_name}_out.mp4")
         
-        # Create base output directory
         os.makedirs(video_output_dir, exist_ok=True)
         
-        # Process the video
         result = process_video(
             input_video_path=args.input_path,
             faces_output_dir=faces_dir,
@@ -90,7 +78,6 @@ def main():
     elif args.mode == 'dataset':
         print(f"Processing dataset: {args.dataset_dir}")
         
-        # If force reprocessing, delete checkpoint file
         if args.force_reprocess:
             checkpoint_file = os.path.join(args.output_dir, "checkpoint.json")
             if os.path.exists(checkpoint_file):
@@ -100,20 +87,16 @@ def main():
                 except Exception as e:
                     print(f"Error removing checkpoint file: {str(e)}")
         
-        # Process all videos in the dataset
         results = process_dataset(args.dataset_dir, args.output_dir)
         
         if results:
-            # Count total videos processed
             total_videos = sum(len(videos) for videos in results.values())
             print(f"\nProcessed {total_videos} videos across {len(results)} classes")
             
-            # Print summary for each class
             for class_name, class_results in results.items():
                 if class_results:
                     print(f"  Class '{class_name}': {len(class_results)} videos processed")
     
-    # Calculate and display total execution time
     total_time = time.time() - start_time
     minutes, seconds = divmod(total_time, 60)
     hours, minutes = divmod(minutes, 60)

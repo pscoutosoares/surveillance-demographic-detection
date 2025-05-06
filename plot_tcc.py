@@ -22,17 +22,11 @@ plt.tight_layout()
 plt.savefig("figuras/boxplot_faces_categoria.png")
 
 
-df = pd.read_csv("resumo_demografico.csv")  # Substitua pelo nome do seu CSV
-
-# Função para plotar heatmap de dominância por crime
 def plot_heatmap(df, feature, title):
-    # Conta quantos vídeos por crime têm aquela característica dominante
     counts = df.groupby(['crime_category', feature]).size().unstack(fill_value=0)
 
-    # Opcional: transforma em proporções
     proportions = counts.div(counts.sum(axis=1), axis=0)
 
-    # Plot
     plt.figure(figsize=(12, 6))
     sns.heatmap(proportions, annot=True, cmap="YlOrRd", fmt=".2f")
     plt.title(title)
@@ -42,5 +36,4 @@ def plot_heatmap(df, feature, title):
     plt.savefig("figuras/heat_map_{}.png".format(feature))
 
 
-# Gera heatmaps para as colunas dominantes
 plot_heatmap(df, 'raça_dominante', 'Raça dominante x classe do crime')
